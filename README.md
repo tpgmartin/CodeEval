@@ -12,12 +12,12 @@ Solved 6 problems
 
 | Challenge      | Time (ms) | Memory (bytes) |
 |----------------|-----------|----------------|
-| Easy Numbers   | 107 ms    | 4542464 Bytes  |
-| Hex to Decimal | 106 ms    | 3887104 Bytes  |
-| Lowercase      | 102 ms    | 4005888 Bytes  |
-| Odd Numbers    | 130 ms    | 3887104 Bytes  |
-| N Mod M        | 115 ms    | 4255744 Bytes  |
-| Reverse Words  | 108 ms    | 4542464 Bytes  |
+| Easy Numbers   | 107       | 4542464        |
+| Hex to Decimal | 106       | 3887104        |
+| Lowercase      | 102       | 4005888        |
+| Odd Numbers    | 130       | 3887104        |
+| N Mod M        | 115       | 4255744        |
+| Reverse Words  | 108       | 4542464        |
 
 ### Moderate
 
