@@ -21,6 +21,7 @@ Solved 9 problems
 | Reverse Words    | 108       | 4542464        |
 | Sum of Digits    | 105       | 4460544        |
 | Swap Case        | 119       | 4005888        |
+| Swap Element     | 128       | 3268608        |
 
 ### Moderate
 
