@@ -19,6 +19,7 @@ Solved 9 problems
 | Odd Numbers      | 130       | 3887104        |
 | N Mod M          | 115       | 4255744        |
 | Reverse Words    | 108       | 4542464        |
+| Rightmost Char   | 152       | 4009984        |
 | Sum of Digits    | 105       | 4460544        |
 | Swap Case        | 119       | 4005888        |
 | Swap Element     | 128       | 3268608        |
