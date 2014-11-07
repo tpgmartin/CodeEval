@@ -10,8 +10,8 @@ Times computed with following processor properties 2.4 GHz Intel Core i5
 
 Solved 14 problems
 
-| Challenge             | Time (ms) | Memory (bytes) |
-|-----------------------|-----------|----------------|
+| Challenge                | Time (ms) | Memory (bytes) |
+|--------------------------|-----------|----------------|
 | Capitalize Words         | 125       | 1482752        |
 | Easy Numbers             | 107       | 4542464        |
 | Hex to Decimal           | 106       | 3887104        |
@@ -29,4 +29,8 @@ Solved 14 problems
 
 ### Moderate
 
+Solved 1 problem
 
+| Challenge                | Time (ms) | Memory (bytes) |
+|--------------------------|-----------|----------------|
+| Mth To Last Element      | 124       | 4005888        |
