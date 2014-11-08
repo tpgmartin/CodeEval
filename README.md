@@ -20,6 +20,7 @@ Solved 16 problems
 | Lowercase                   | 102       | 4005888        |
 | Mixed Content               | 135       | 4009984        |
 | Multiples of a Number       | 111       | 3743744        |
+| Nice Angles                 | 123       | 2035712        |
 | N Mod M                     | 115       | 4255744        |
 | Odd Numbers                 | 130       | 3887104        |
 | Reverse Words               | 108       | 4542464        |
