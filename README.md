@@ -8,10 +8,11 @@ Times computed with following processor properties 2.4 GHz Intel Core i5
 
 ### Easy
 
-Solved 17 problems
+Solved 19 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
+| Armstrong Numbers           | 104       | 4460544        |
 | Capitalize Words            | 125       | 1482752        |
 | Easy Numbers                | 107       | 4542464        |
 | Find A Writer               | 101       | 4009984        |
