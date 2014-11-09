@@ -24,6 +24,7 @@ Solved 17 problems
 | Nice Angles                 | 123       | 2035712        |
 | N Mod M                     | 115       | 4255744        |
 | Odd Numbers                 | 130       | 3887104        |
+| Read More                   | 116       | 4005888        |
 | Reverse Words               | 108       | 4542464        |
 | Rightmost Char              | 152       | 4009984        |
 | Sum of Digits               | 105       | 4460544        |
