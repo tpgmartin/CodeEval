@@ -8,7 +8,7 @@ Times computed with following processor properties 2.4 GHz Intel Core i5
 
 ### Easy
 
-Solved 19 problems
+Solved 22 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
@@ -26,6 +26,7 @@ Solved 19 problems
 | Nice Angles                 | 123       | 2035712        |
 | N Mod M                     | 115       | 4255744        |
 | Odd Numbers                 | 130       | 3887104        |
+| Penultimate Word            | 115       | 4542464        |
 | Read More                   | 116       | 4005888        |
 | Reverse Words               | 108       | 4542464        |
 | Rightmost Char              | 152       | 4009984        |
