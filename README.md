@@ -16,6 +16,7 @@ Solved 19 problems
 | Capitalize Words            | 125       | 1482752        |
 | Easy Numbers                | 107       | 4542464        |
 | Find A Writer               | 101       | 4009984        |
+| File Size                   | 105       | 4358144        |
 | Hex to Decimal              | 106       | 3887104        |
 | Lettercase Percentage Ratio | 139       | 4222976        |
 | Longest Word                | 153       | 4259840        |
