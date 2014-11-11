@@ -28,6 +28,7 @@ Solved 19 problems
 | Read More                   | 116       | 4005888        |
 | Reverse Words               | 108       | 4542464        |
 | Rightmost Char              | 152       | 4009984        |
+| Simple Sorting              | 129       | 3268608        |
 | Sum of Digits               | 105       | 4460544        |
 | Swap Case                   | 119       | 4005888        |
 | Swap Element                | 128       | 3268608        |
