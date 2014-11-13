@@ -8,7 +8,7 @@ Times computed with following processor properties 2.4 GHz Intel Core i5
 
 ### Easy
 
-Solved 24 problems
+Solved 26 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
@@ -34,9 +34,11 @@ Solved 24 problems
 | Roller Coaster              | 121       | 4542464        |
 | Simple Sorting              | 129       | 3268608        |
 | Sum of Digits               | 105       | 4460544        |
+| Sum of Integers From File   | 101       | 4005888        |
 | Swap Case                   | 119       | 4005888        |
 | Swap Element                | 128       | 3268608        |
 | Unique Elements             | 100       | 4005888        |
+| Word To Digit               | 112       | 4005888        |
 
 ### Moderate
 
