@@ -8,10 +8,11 @@ Times computed with following processor properties 2.4 GHz Intel Core i5
 
 ### Easy
 
-Solved 22 problems
+Solved 24 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
+| Age Distribution            | 132       | 3481600        |
 | Armstrong Numbers           | 104       | 4460544        |
 | Capitalize Words            | 125       | 1482752        |
 | Easy Numbers                | 107       | 4542464        |
@@ -30,6 +31,7 @@ Solved 22 problems
 | Read More                   | 116       | 4005888        |
 | Reverse Words               | 108       | 4542464        |
 | Rightmost Char              | 152       | 4009984        |
+| Roller Coaster              | 121       | 4542464        |
 | Simple Sorting              | 129       | 3268608        |
 | Sum of Digits               | 105       | 4460544        |
 | Swap Case                   | 119       | 4005888        |
