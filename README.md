@@ -1,10 +1,22 @@
 # CodeEval Solutions
 
-This repository is a collection of my solutions to Code Eval problems written in Python 2.
+This repository is a collection of my solutions to Code Eval problems written in JavaScript 1.8.5 and Python 2.
 
 ## Solved Challenges
 
 Times computed with following processor properties 2.4 GHz Intel Core i5
+
+## JavaScript
+
+### Easy
+
+| Challenge                   | Time (ms) | Memory (bytes) |
+|-----------------------------|-----------|----------------|
+| Lowercase                   | 188       | 2293760        |
+| Reverse Words               | 241       | 5173248        |
+| Sum of Digits               | 189       | 5009408        |
+
+## Python
 
 ### Easy
 
