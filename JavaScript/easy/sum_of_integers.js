@@ -1,10 +1,8 @@
 var fs  = require("fs");
+var sum = 0;
 fs.readFileSync(process.argv[2]).toString().split('\n').forEach(function (line) {
   if (line != "") {
-    var sum = 0;
-    line = line.split('').map(function(num) {
-      sum += parseInt(num);
-    });
-    console.log(sum);
+    sum += parseInt(line);
   }
 });
+console.log(sum);
