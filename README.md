@@ -10,11 +10,13 @@ Times computed with following processor properties 2.4 GHz Intel Core i5
 
 ### Easy
 
-Solved 5 problems
+Solved 7 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
+| Even Numbers                | 222       | 4190208        |
 | Lowercase                   | 188       | 2293760        |
+| N Mod M                     | 192       | 4186112        |
 | Penultimate Word            | 169       | 5435392        |
 | Reverse Words               | 241       | 5173248        |
 | Sum of Digits               | 189       | 5009408        |
@@ -32,7 +34,7 @@ Solved 27 problems
 | Armstrong Numbers           | 104       | 4460544        |
 | Calculate Distance          | 124       | 2281472        |
 | Capitalize Words            | 125       | 1482752        |
-| Easy Numbers                | 107       | 4542464        |
+| Even Numbers                | 107       | 4542464        |
 | Find A Writer               | 101       | 4009984        |
 | File Size                   | 105       | 4358144        |
 | Hex to Decimal              | 106       | 3887104        |
