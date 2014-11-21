@@ -26,12 +26,13 @@ Solved 7 problems
 
 ### Easy
 
-Solved 27 problems
+Solved 28 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
 | Age Distribution            | 132       | 3481600        |
 | Armstrong Numbers           | 104       | 4460544        |
+| Bit Positions               | 132       | 4259840        |
 | Calculate Distance          | 124       | 2281472        |
 | Capitalize Words            | 125       | 1482752        |
 | Even Numbers                | 107       | 4542464        |
