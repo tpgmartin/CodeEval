@@ -26,7 +26,7 @@ Solved 7 problems
 
 ### Easy
 
-Solved 28 problems
+Solved 29 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
@@ -53,6 +53,7 @@ Solved 28 problems
 | Rightmost Char              | 152       | 4009984        |
 | Roller Coaster              | 121       | 4542464        |
 | Simple Sorting              | 129       | 3268608        |
+| Split the Number            | 109       | 4255744        |
 | Sum of Digits               | 105       | 4460544        |
 | Sum of Integers From File   | 101       | 4005888        |
 | Swap Case                   | 119       | 4005888        |
