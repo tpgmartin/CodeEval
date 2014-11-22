@@ -26,7 +26,7 @@ Solved 7 problems
 
 ### Easy
 
-Solved 29 problems
+Solved 31 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
@@ -52,6 +52,7 @@ Solved 29 problems
 | Reverse Words               | 108       | 4542464        |
 | Rightmost Char              | 152       | 4009984        |
 | Roller Coaster              | 121       | 4542464        |
+| Set Intersection            | 196       | 3706880        |
 | Simple Sorting              | 129       | 3268608        |
 | Split the Number            | 109       | 4255744        |
 | Sum of Digits               | 105       | 4460544        |
