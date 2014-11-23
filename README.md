@@ -26,7 +26,7 @@ Solved 7 problems
 
 ### Easy
 
-Solved 31 problems
+Solved 32 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
@@ -51,6 +51,7 @@ Solved 31 problems
 | Read More                   | 116       | 4005888        |
 | Reverse Words               | 108       | 4542464        |
 | Rightmost Char              | 152       | 4009984        |
+| Road Trip                   | 259       | 3883008        |
 | Roller Coaster              | 121       | 4542464        |
 | Set Intersection            | 196       | 3706880        |
 | Simple Sorting              | 129       | 3268608        |
