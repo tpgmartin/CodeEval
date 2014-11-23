@@ -1,9 +1,7 @@
-primes = [2]
-
-for num in range (3,16,2):
-  for prime in primes:
-    if num % prime != 0:
-      primes.append(num)
-      break
-
-print primes
+primes = [2,3]
+num = 5
+while len(primes) < 1000:
+  if all(num % i for i in primes):
+    primes.append(num)
+  num += 2
+print sum(primes)

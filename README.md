@@ -26,7 +26,7 @@ Solved 7 problems
 
 ### Easy
 
-Solved 32 problems
+Solved 33 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
@@ -58,6 +58,7 @@ Solved 32 problems
 | Split the Number            | 109       | 4255744        |
 | Sum of Digits               | 105       | 4460544        |
 | Sum of Integers From File   | 101       | 4005888        |
+| Sum of Primes               | 314       | 5447680        |
 | Swap Case                   | 119       | 4005888        |
 | Swap Element                | 128       | 3268608        |
 | Unique Elements             | 100       | 4005888        |
