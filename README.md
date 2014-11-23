@@ -36,6 +36,7 @@ Solved 33 problems
 | Calculate Distance          | 124       | 2281472        |
 | Capitalize Words            | 125       | 1482752        |
 | Even Numbers                | 107       | 4542464        |
+| Fibonacci Series            | 166       | 3969024        |
 | Find A Writer               | 101       | 4009984        |
 | File Size                   | 105       | 4358144        |
 | Hex to Decimal              | 106       | 3887104        |
