@@ -67,9 +67,10 @@ Solved 33 problems
 
 ### Moderate
 
-Solved 2 problems
+Solved 3 problems
 
 | Challenge                | Time (ms) | Memory (bytes) |
 |--------------------------|-----------|----------------|
 | Decimal To Binary        | 120       | 3964928        |
 | Mth To Last Element      | 124       | 4005888        |
+| Remove Characters        | 148       | 3760128        |
