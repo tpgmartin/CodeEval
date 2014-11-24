@@ -67,11 +67,12 @@ Solved 33 problems
 
 ### Moderate
 
-Solved 3 problems
+Solved 5 problems
 
 | Challenge                | Time (ms) | Memory (bytes) |
 |--------------------------|-----------|----------------|
 | Decimal To Binary        | 120       | 3964928        |
+| Endianness               | 125       | 4005888        |
 | Mth To Last Element      | 124       | 4005888        |
 | Number Of Ones           | 154       | 3964928        |
 | Remove Characters        | 148       | 3760128        |
