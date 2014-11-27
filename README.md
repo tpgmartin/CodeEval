@@ -26,7 +26,7 @@ Solved 7 problems
 
 ### Easy
 
-Solved 33 problems
+Solved 34 problems
 
 | Challenge                   | Time (ms) | Memory (bytes) |
 |-----------------------------|-----------|----------------|
@@ -67,12 +67,14 @@ Solved 33 problems
 
 ### Moderate
 
-Solved 5 problems
+Solved 6 problems
 
 | Challenge                | Time (ms) | Memory (bytes) |
 |--------------------------|-----------|----------------|
 | Decimal To Binary        | 120       | 3964928        |
+| Email Validation         | 110       | 3698688        |
 | Endianness               | 125       | 4005888        |
 | Mth To Last Element      | 124       | 4005888        |
 | Number Of Ones           | 154       | 3964928        |
 | Remove Characters        | 148       | 3760128        |
+| Pangrams                 | 126       | 2551808        |
